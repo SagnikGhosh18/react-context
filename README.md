@@ -1,0 +1,1 @@
+A simple react application which displays the use of the context API for adding, removing and updating items in a cart.
